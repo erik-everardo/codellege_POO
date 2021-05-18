@@ -1,0 +1,18 @@
+.contenedor{
+    width: 90%;
+    height: 50vh;
+    background-color: aliceblue;
+    margin: 70px auto;
+    position: relative;
+    overflow-x: scroll;
+    display: block;
+}
+
+span {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    display: block;
+    position: absolute;
+    background: red;
+}
